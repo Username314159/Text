@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-
-<html lang = "en">   
-    <head>
-        <title> Hello World  </title>
-
         <link rel="stylesheet" href="stylesheet/style.css">
 
     </head>
